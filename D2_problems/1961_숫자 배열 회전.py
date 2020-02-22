@@ -1,46 +1,40 @@
-import copy
-t = int(input())
-num = [1,2,3,4,5,6,7,8,9]
+# def turn(lst):
+#     newArr = ''
+#     for i in range(len(lst)):
+#         for j in range(len(arr[0]) - 1, -1, -1):
+#             newArr += lst[j][i]
+#         newArr += ' '
+#     return newArr
+#
+#
+# T = int(input())
+#
+# for tc in range(1, T + 1):
+#     n = int(input())
+#     arr = [list(input().split()) for x in range(n)]
+#
+#     res = [[0] * 3 for y in range(n)]
+#     for j in range(3):
+#         arr = turn(arr).strip().split()
+#         for i in range(n):
+#             res[i][j] = arr[i]
+#
+#     print(f'#{tc}')
+#     for i in res:
+#         print(' '.join(i))
 
-for tc in range(1, t+1):
-    arr =[list(map(int,input().split())) for l in range(9)]
-    result = 1
-
-    arr2=copy.deepcopy(arr)
-    for i in range(9):
-        i_row = arr2[i]
-        i_row.sort()
-        if i_row == num:
-            pass
-        else:
-            result = 0
-            break
-
-    if result != 0:
-        for j in range(9):
-            new = []
-            for k in range(9):
-                i_column = arr[k][j]
-                new.append(i_column)
-            new.sort()
-            if new == num:
-                pass
-            else:
-                result = 0
-                break
-
-    if result != 0:
-        for i in range(0,9,3):
-            for j in range(0,9,3):
-                s = []
-                for k in range(3):
-                    for m in range(3):
-                        a = arr[i+k][j+m]
-                        s.append(a)
-                s.sort()
-                if s == num:
-                    pass
-                else:
-                    result = 0
-                    break
-    print('#{} {}'.format(tc, result))
+T = int(input())
+for t in range(1,T+1):
+    N = int(input())
+    arr = [list(map(int,input().split())) for l in range(N)]
+    print('#{}'.format(t))
+    for j in range(N):
+        for i in range(N):
+            print(arr[N-1-i][j], end='')
+        print(' ', end='')
+        for i in range(N):
+            print(arr[N-1-j][N-1-i], end='')
+        print(' ', end='')
+        for i in range(N):
+            print(arr[i][N-1-j], end='')
+        print()
