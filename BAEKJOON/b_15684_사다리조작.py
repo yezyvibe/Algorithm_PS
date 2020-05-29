@@ -1,3 +1,4 @@
+# 사다리에 가로선을 놓는 함수
 def dfs(start, cnt):
     global res
     if cnt == min_cnt:
@@ -6,11 +7,15 @@ def dfs(start, cnt):
         return
     for i in range(start, h):
         for j in range(n-1):
+            # ij 위치에 사다리가 있지 않고, 전후로도 사다리가 없으면
             if not ladder[i][j-1] + ladder[i][j] + ladder[i][j+1]:
+                # 사다리 놓기
                 ladder[i][j] = 1
                 dfs(i, cnt+1)
+                # 함수 재귀 끝나면 사다리 다시 빼기(원상복구)
                 ladder[i][j] = 0
 
+# 사다리 가로선 추가 후, 모든 세로선이 자기 번호로 내려오는 지 확인하는 함수
 def check():
     # h행 n열, 1열부터 시작
     for j in range(n):
@@ -38,7 +43,7 @@ res = 10000
 for min_cnt in range(4):
     dfs(0, 0)
     if res != 10000:
-        print(res)
+        print(res) # 최솟값 출력
         break
 else:
-    print(-1)
+    print(-1) # 불가능한 경우, cnt가 4이상인 경우 -1 출력
