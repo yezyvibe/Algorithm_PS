@@ -1,16 +1,3 @@
-# ["Enter uid1234 Muzi", 
-# "Enter uid4567 Prodo",
-# "Leave uid1234",
-# "Enter uid1234 Prodo",
-# "Change uid4567 Ryan"]
-# 이름은 Enter, Change 할 때만 변경
-# 최종 채팅방 메세지에 기록될 action은 Enter, Leave
-# ['Enter', 'uid1234', 'Muzi']
-# ['Enter', 'uid4567', 'Prodo']
-# ['Leave', 'uid1234']
-# ['Enter', 'uid1234', 'Prodo']
-# ['Change', 'uid4567', 'Ryan']
-
 name_list = {}
 action_list = []
 result = []
