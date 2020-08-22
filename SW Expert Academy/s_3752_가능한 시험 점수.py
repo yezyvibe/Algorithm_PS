@@ -1,6 +1,4 @@
-T = int(input())
- 
-for test_case in range(1,T+1):
+for test_case in range(1, int(input())+1):
     N = int(input())
     nums = list(map(int, input().split()))
     val = 1
