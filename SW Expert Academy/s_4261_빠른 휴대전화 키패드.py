@@ -20,5 +20,5 @@ for word in words:
             break
     else:
         cnt += 1
-
+        
 print('#{} {}'.format(tc, cnt))
