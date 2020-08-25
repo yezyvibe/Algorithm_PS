@@ -31,5 +31,4 @@ for i in tomato:
     if 0 in i:
         step = 0
         break
-
 print(step-1)
