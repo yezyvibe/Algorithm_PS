@@ -1,25 +1,25 @@
-dx = [-1, 1, 0, 0]
-dy = [0, 0, -1, 1]
+def four_blocks(m, n, board):
+    visit_set = set()
+    for i in range(1, n):
+        for j in range(1, m):
+            if board[i][j] == board[i - 1][j - 1] == board[i - 1][j] == board[i][j - 1] != '_':
+                visit_set |= set([(i, j), (i - 1, j - 1), (i - 1, j), (i, j - 1)])
 
-def dfs(i, j):
-    tmp = board[i][j]
-    stack = [(i, j)]
-
-    while stack:
-        a, b = stack.pop()
-        for k in range(4):
-            nx = a + dx[k]
-            ny = b + dy[k]
-            if 0 <= nx < m and 0 <= ny < n:
-                next = board[nx][ny]
-                if next == tmp:
-
+    # 2x2가 되는 애들은 1로 표시
+    for i, j in visit_set:
+        board[i][j] = 1
+    # 1인 애들은 '_'로 대체하고 맨 앞으로 옮기는 것처럼 구현
+    for idx, row in enumerate(board):
+        tmp = ['_'] * row.count(1)
+        board[idx] = tmp + [b for b in row if b != 1]
+    return len(visit_set)
 
 
 def solution(m, n, board):
     answer = 0
-    for i in range(m):
-        for j in range(n):
-            dfs(i, j)
-
-    return answer
+    board = list(map(list, zip(*board)))  # 행열 뒤집기
+    while True:
+        res = four_blocks(m, n, board)
+        if res == 0:
+            return answer
+        answer += res
