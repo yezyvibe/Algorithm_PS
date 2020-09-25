@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="db8b8211-dc7c-4b9c-a745-ed686b70636d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/p_삼각 달팽이.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/p_삼각 달팽이.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,39 +14,40 @@
     <session id="-1304211534">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="34" />
+          <entry key="project.closed" value="37" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="9" />
-          <entry key="project.open.time.3" value="8" />
+          <entry key="project.open.time.3" value="9" />
           <entry key="project.open.time.4" value="4" />
-          <entry key="project.open.time.5" value="6" />
+          <entry key="project.open.time.5" value="7" />
           <entry key="project.open.time.6" value="4" />
-          <entry key="project.opened" value="34" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="3" />
           <entry key="dummy" value="3" />
-          <entry key="py" value="16729" />
+          <entry key="py" value="16987" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="16732" />
+          <entry key="Python" value="16990" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="68" />
+          <entry key="py" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="68" />
+          <entry key="Python" value="74" />
         </counts>
       </usages-collector>
     </session>
@@ -58,10 +58,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programmers/p_올바른 괄호.py">
+        <entry file="file://$PROJECT_DIR$/Programmers/p_n진수 게임.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+            <state relative-caret-position="225">
+              <caret line="9" column="30" selection-end-line="25" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -91,7 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Programmers/p_단어변환_dfs.py" />
         <option value="$PROJECT_DIR$/Programmers/p_위장2.py" />
         <option value="$PROJECT_DIR$/Programmers/p_위장.py" />
         <option value="$PROJECT_DIR$/Programmers/p_괄호변환.py" />
@@ -138,19 +137,26 @@
         <option value="$PROJECT_DIR$/Programmers/p_후보키.py" />
         <option value="$PROJECT_DIR$/Programmers/p_숫자의 표현.py" />
         <option value="$PROJECT_DIR$/Programmers/p_올바른 괄호.py" />
+        <option value="$PROJECT_DIR$/Programmers/p_JadenCase 문자열 만들기.py" />
+        <option value="$PROJECT_DIR$/Programmers/p_뉴스 클러스터링.py" />
+        <option value="$PROJECT_DIR$/Programmers/p_캐시.py" />
+        <option value="$PROJECT_DIR$/Programmers/p.py" />
+        <option value="$PROJECT_DIR$/Programmers/p_n진수 게임.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="840" />
+    <option name="x" value="952" />
+    <option name="y" value="106" />
     <option name="width" value="980" />
-    <option name="height" value="995" />
+    <option name="height" value="999" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,7 +173,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.p_키패드 누르기">
+  <component name="RunManager" selected="Python.p_n진수 게임">
     <configuration name="카카오2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="solved_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,27 +226,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/p_가장 큰 수.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="p_키패드 누르기" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="solved_problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/p_키패드 누르기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -397,15 +381,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="p_n진수 게임" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="solved_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/p_n진수 게임.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.p_키패드 누르기" />
       <item itemvalue="Python.p_가장 큰 수" />
       <item itemvalue="Python.p_프렌즈4블록" />
       <item itemvalue="Python.p_비밀지도" />
       <item itemvalue="Python.카카오2" />
+      <item itemvalue="Python.p_n진수 게임" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.p_n진수 게임" />
         <item itemvalue="Python.카카오2" />
         <item itemvalue="Python.p_비밀지도" />
         <item itemvalue="Python.p_프렌즈4블록" />
@@ -436,14 +442,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="672" y="0" width="784" height="796" extended-state="0" />
+    <frame x="762" y="85" width="784" height="799" extended-state="0" />
     <layout>
-      <window_info id="Structure" order="0" sideWeight="0.50211865" side_tool="true" weight="0.24861266" />
-      <window_info id="Favorites" order="1" sideWeight="0.50211865" side_tool="true" weight="0.24917382" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49788135" visible="true" weight="0.34136546" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49788135" visible="true" weight="0.34136546" />
+      <window_info id="Structure" order="1" sideWeight="0.50211865" side_tool="true" weight="0.24861266" />
+      <window_info id="Favorites" order="2" sideWeight="0.50211865" side_tool="true" weight="0.24917382" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28636363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2857143" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -457,12 +463,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49788135" visible="true" weight="0.3268366" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49788135" visible="true" weight="0.34136546" />
       <window_info id="Structure" order="1" sideWeight="0.50211865" side_tool="true" weight="0.24861266" />
       <window_info id="Favorites" order="2" sideWeight="0.50211865" side_tool="true" weight="0.24917382" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22070014" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28636363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -811,10 +817,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/p_뉴스 클러스터링.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/p_JadenCase 문자열 만들기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Programmers/p_올바른 괄호.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/p_캐시.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="9" column="23" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/p.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/p_n진수 게임.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="30" selection-end-line="25" selection-end-column="17" />
         </state>
       </provider>
     </entry>
