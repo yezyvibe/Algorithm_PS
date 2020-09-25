@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="db8b8211-dc7c-4b9c-a745-ed686b70636d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/p_n진수 게임.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,11 +21,11 @@
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="9" />
           <entry key="project.open.time.3" value="9" />
-          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.4" value="5" />
           <entry key="project.open.time.5" value="7" />
           <entry key="project.open.time.6" value="4" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="37" />
+          <entry key="project.opened" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -42,12 +43,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="74" />
+          <entry key="py" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="74" />
+          <entry key="Python" value="75" />
         </counts>
       </usages-collector>
     </session>
@@ -58,10 +59,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programmers/p_n진수 게임.py">
+        <entry file="file://$PROJECT_DIR$/Programmers/p_영어 끝말잇기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="30" selection-end-line="25" selection-end-column="17" />
+            <state relative-caret-position="566">
+              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -91,7 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Programmers/p_위장2.py" />
         <option value="$PROJECT_DIR$/Programmers/p_위장.py" />
         <option value="$PROJECT_DIR$/Programmers/p_괄호변환.py" />
         <option value="$PROJECT_DIR$/Programmers/p_주식가격.py" />
@@ -142,14 +142,15 @@
         <option value="$PROJECT_DIR$/Programmers/p_캐시.py" />
         <option value="$PROJECT_DIR$/Programmers/p.py" />
         <option value="$PROJECT_DIR$/Programmers/p_n진수 게임.py" />
+        <option value="$PROJECT_DIR$/Programmers/p_영어 끝말잇기.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="y" value="106" />
+    <option name="x" value="951" />
+    <option name="y" value="105" />
     <option name="width" value="980" />
-    <option name="height" value="999" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -442,7 +443,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="85" width="784" height="799" extended-state="0" />
+    <frame x="761" y="84" width="784" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49788135" visible="true" weight="0.34136546" />
       <window_info id="Structure" order="1" sideWeight="0.50211865" side_tool="true" weight="0.24861266" />
@@ -512,13 +514,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Programmers/p_단어변환_dfs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="35" lean-forward="true" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programmers/p_위장.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -845,13 +840,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programmers/p.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/p.py" />
     <entry file="file://$PROJECT_DIR$/Programmers/p_n진수 게임.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="30" selection-end-line="25" selection-end-column="17" />
+        <state relative-caret-position="202">
+          <caret line="15" column="23" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/p_영어 끝말잇기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
         </state>
       </provider>
     </entry>
