@@ -1,45 +1,40 @@
 def solution(n):
-    answer = []
-    for i in range(n + 1):
-        answer.append([0] * i)
-    cnt = 1
+    arr = [[0] * _ for _ in range(1, n + 1)]
+    num = 1
+    j = 0
     k = 0
-    j = 1
 
-    for idx in range(1, n + 1):
-        print(idx)
-        if idx % 3 == 1:
-            while j < n + 1:
-                if not answer[j][k]:
-                    answer[j][k] = cnt
-                    cnt += 1
+    for i in range(1, n+1):
+        # 왼쪽 아래로 내려가는 대각선
+        if i % 3 == 1:
+            while True:
+                arr[j][k] = num
+                num += 1
                 j += 1
-            j -= 1
-            print(answer, j, k)
-
-        elif idx % 3 == 2:
-            while k < n:
-                if not answer[j - 1][k]:
-                    answer[j - 1][k] = cnt
-                    cnt += 1
+                if j >= n or arr[j][k]:
+                    j -= 1
+                    k += 1
+                    break
+        # 왼쪽에서 오른쪽 향하는 일직선
+        elif i % 3 == 2:
+            while True:
+                arr[j][k] = num
+                num += 1
                 k += 1
-            print(answer, j, k)
-
-        elif idx % 3 == 0:
-            while j > 1 and k > 0:
-                if not answer[j - 1][k - 1]:
-                    answer[j - 1][k - 1] = cnt
-                    cnt += 1
+                if k >= n or arr[j][k]:
+                    k -= 2
+                    j -= 1
+                    break
+        # 왼쪽 위로 향하는 대각선
+        elif i % 3 == 0:
+            while True:
+                arr[j][k] = num
+                num += 1
                 j -= 1
                 k -= 1
-            j += 1
-            k += 1
+                if arr[j][k]:
+                    j += 2
+                    k += 1
+                    break
 
-            print(answer, j, k)
-
-    # print(answer)
-    return answer
-
-
-
-
+    return sum(arr, [])
