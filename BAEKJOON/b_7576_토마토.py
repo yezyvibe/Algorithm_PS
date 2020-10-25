@@ -24,8 +24,8 @@ while q:
                 q.append((nx, ny))
                 tomato[nx][ny] = tomato[x][y] + 1
     step = tomato[x][y]
-for i in tomato:
-    print(i)
+# for i in tomato:
+#     print(i)
 
 for i in tomato:
     if 0 in i:
