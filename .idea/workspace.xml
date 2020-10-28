@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db8b8211-dc7c-4b9c-a745-ed686b70636d" name="Default Changelist" comment="">
+    <list default="true" id="db8b8211-dc7c-4b9c-a745-ed686b70636d" name="Default Changelist" comment="1025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAEKJOON/b_7576_토마토.py" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/b_7576_토마토.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEKJOON/b_14502_연구소.py" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/b_14502_연구소.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,43 +15,44 @@
     <session id="-1304211534">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="71" />
+          <entry key="project.closed" value="78" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="15" />
-          <entry key="project.open.time.3" value="17" />
-          <entry key="project.open.time.4" value="11" />
+          <entry key="project.open.time.3" value="20" />
+          <entry key="project.open.time.4" value="14" />
           <entry key="project.open.time.5" value="15" />
           <entry key="project.open.time.6" value="9" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="72" />
+          <entry key="project.opened" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="3" />
-          <entry key="dummy" value="29" />
-          <entry key="py" value="50130" />
+          <entry key="dummy" value="33" />
+          <entry key="py" value="60565" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="29" />
-          <entry key="Python" value="50133" />
+          <entry key="PLAIN_TEXT" value="42" />
+          <entry key="Python" value="60568" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="14889" value="1" />
-          <entry key="py" value="169" />
+          <entry key="py" value="181" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="169" />
+          <entry key="Python" value="181" />
         </counts>
       </usages-collector>
     </session>
@@ -60,7 +61,7 @@
     <favorites_list name="solved_problems" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,13 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BAEKJOON/b_10828.py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/b_1927_최소 힙.py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/b_11278.py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/b_11279_최대 힙.py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/b_1766_문제집.py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/b_1753_최단경로(2).py" />
-        <option value="$PROJECT_DIR$/Programmers/dd.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/b_11399번_ATM.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/b_2750_수 정렬하기.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/b_1463_1로 만들기.py" />
@@ -138,13 +132,20 @@
         <option value="$PROJECT_DIR$/Programmers/p_sql_level3.py" />
         <option value="$PROJECT_DIR$/etc/NHN_1번.py" />
         <option value="$PROJECT_DIR$/etc/NHN_1번_1.py" />
+        <option value="$PROJECT_DIR$/Programmers/p_네트워크.py" />
+        <option value="$PROJECT_DIR$/Programmers/p_여행경로.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/b_15686_치킨 배달.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/b_15686_치킨 배달2.py" />
+        <option value="$PROJECT_DIR$/Programmers/p_디스크 컨트롤러.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/b_14502_연구소.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/b_7569_토마토.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -166,7 +167,7 @@
             <path>
               <item name="solved_problems" type="b2602c69:ProjectViewProjectNode" />
               <item name="solved_problems" type="462c0819:PsiDirectoryNode" />
-              <item name="etc" type="462c0819:PsiDirectoryNode" />
+              <item name="Programmers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -192,50 +193,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.NHN_1번_1">
-    <configuration name="NHN_1번" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="solved_problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etc" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etc/NHN_1번.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="NHN_1번_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="solved_problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etc" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etc/NHN_1번_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="b_1026_보물" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.b_7569_토마토">
+    <configuration name="b_14502_연구소" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="solved_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,7 +206,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/b_1026_보물.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/b_14502_연구소.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="b_15686_치킨 배달" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="solved_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAEKJOON" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\solved_problems\BAEKJOON\b_15686_치킨 배달2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="b_2751_수 정렬하기2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="b_7569_토마토" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="solved_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,7 +269,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/b_2751_수 정렬하기2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/b_7569_토마토.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,7 +278,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="b_7562_나이트의 이동" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p_디스크 컨트롤러" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="solved_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,11 +286,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAEKJOON" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/b_7562_나이트의 이동.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/p_디스크 컨트롤러.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p_여행경로" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="solved_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/p_여행경로.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,24 +322,24 @@
     </configuration>
     <list>
       <item itemvalue="Python.b_1946_신입 사원2" />
-      <item itemvalue="Python.b_1026_보물" />
-      <item itemvalue="Python.b_2751_수 정렬하기2" />
-      <item itemvalue="Python.b_7562_나이트의 이동" />
-      <item itemvalue="Python.NHN_1번" />
-      <item itemvalue="Python.NHN_1번_1" />
+      <item itemvalue="Python.p_여행경로" />
+      <item itemvalue="Python.b_15686_치킨 배달" />
+      <item itemvalue="Python.p_디스크 컨트롤러" />
+      <item itemvalue="Python.b_14502_연구소" />
+      <item itemvalue="Python.b_7569_토마토" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.NHN_1번_1" />
-        <item itemvalue="Python.NHN_1번" />
-        <item itemvalue="Python.b_7562_나이트의 이동" />
-        <item itemvalue="Python.b_1026_보물" />
-        <item itemvalue="Python.b_2751_수 정렬하기2" />
+        <item itemvalue="Python.b_7569_토마토" />
+        <item itemvalue="Python.b_14502_연구소" />
+        <item itemvalue="Python.p_디스크 컨트롤러" />
+        <item itemvalue="Python.b_15686_치킨 배달" />
+        <item itemvalue="Python.p_여행경로" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\multicampus\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -348,6 +349,35 @@
       <option name="presentableId" value="Default" />
       <updated>1596964049525</updated>
     </task>
+    <task id="LOCAL-00001" summary="1025">
+      <created>1603594335873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603594335874</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1025">
+      <created>1603594495441</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603594495441</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1025">
+      <created>1603594509986</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603594509986</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1025">
+      <created>1603594519285</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603594519285</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -360,11 +390,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="761" y="0" width="782" height="831" extended-state="0" />
     <layout>
+      <window_info id="Structure" order="0" sideWeight="0.50211865" side_tool="true" weight="0.24754098" />
+      <window_info id="Favorites" order="1" sideWeight="0.50211865" side_tool="true" weight="0.24917382" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49788135" visible="true" weight="0.5704698" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27586207" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3275862" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.3275862" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.41379312" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.61494255" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info id="Structure" order="0" sideWeight="0.50211865" side_tool="true" weight="0.24861266" />
       <window_info id="Favorites" order="1" sideWeight="0.50211865" side_tool="true" weight="0.24917382" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49788135" visible="true" weight="0.65591395" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49788135" visible="true" weight="0.2308546" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.47851002" />
@@ -374,12 +423,12 @@
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.3275862" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.41379312" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32805756" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.61494255" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32954547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -410,39 +459,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1025" />
+    <option name="LAST_COMMIT_MESSAGE" value="1025" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/b_14889_스타트와 링크.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/b_1766_문제집.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/b_1753_최단경로(2).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programmers/p_숫자의 표현.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programmers/dd.py" />
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/b_2750_수 정렬하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="17" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/b_11399번_ATM.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -612,13 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/b_2606_바이러스.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/b_1697_숨바꼭질.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -647,25 +661,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/b_2628_종이자르기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="13" column="19" lean-forward="true" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/test.py" />
     <entry file="file://$PROJECT_DIR$/BAEKJOON/b_10989_수 정렬하기3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/b_2751_수 정렬하기2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -733,6 +733,73 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/b_2751_수 정렬하기2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/b_2628_종이자르기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="13" column="19" lean-forward="true" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/b_2606_바이러스.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/p_네트워크.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/p_여행경로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/b_15686_치킨 배달2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/p_디스크 컨트롤러.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/b_14502_연구소.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/b_7569_토마토.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="47" column="26" selection-end-line="52" />
+          <folding>
+            <element signature="e#26#36#0" expanded="true" />
+            <marker date="1603767505070" expanded="true" signature="200:850" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
