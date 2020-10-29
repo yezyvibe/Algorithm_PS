@@ -21,4 +21,4 @@ n, m = map(int, input().split())  # R, C | 세로, 가로
 words = [list(input()) for _ in range(n)]
 result = 0
 backt(0, 0, words[0][0])
-print(result)b
+print(result)
