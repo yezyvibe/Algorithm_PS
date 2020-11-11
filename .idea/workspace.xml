@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db8b8211-dc7c-4b9c-a745-ed686b70636d" name="Default Changelist" comment="">
+    <list default="true" id="db8b8211-dc7c-4b9c-a745-ed686b70636d" name="Default Changelist" comment="1110">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,46 +14,46 @@
     <session id="-1304211534">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="102" />
+          <entry key="project.closed" value="104" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="21" />
-          <entry key="project.open.time.3" value="21" />
+          <entry key="project.open.time.3" value="22" />
           <entry key="project.open.time.4" value="20" />
           <entry key="project.open.time.5" value="18" />
           <entry key="project.open.time.6" value="11" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="103" />
+          <entry key="project.opened" value="104" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="3" />
           <entry key="dummy" value="33" />
-          <entry key="py" value="91199" />
-          <entry key="txt" value="29" />
+          <entry key="py" value="92290" />
+          <entry key="txt" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="62" />
-          <entry key="Python" value="91202" />
+          <entry key="PLAIN_TEXT" value="64" />
+          <entry key="Python" value="92293" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="14889" value="1" />
-          <entry key="py" value="255" />
+          <entry key="py" value="259" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="255" />
+          <entry key="Python" value="259" />
         </counts>
       </usages-collector>
     </session>
@@ -62,14 +62,10 @@
     <favorites_list name="solved_problems" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithm Study/b_6549_히스토그램에서 가장 큰 정사각형.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="23" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Algorithm Study/b_1939_중량제한.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -101,8 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BAEKJOON/b_15686_치킨 배달.py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/b_15686_치킨 배달2.py" />
         <option value="$PROJECT_DIR$/Programmers/p_디스크 컨트롤러.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/b_14502_연구소.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/b_7569_토마토.py" />
@@ -152,13 +146,16 @@
         <option value="$PROJECT_DIR$/Algorithm Study/b_1256_사전.py" />
         <option value="$PROJECT_DIR$/Algorithm Study/b_14235_크리스마스 선물.py" />
         <option value="$PROJECT_DIR$/Algorithm Study/b_6549_히스토그램에서 가장 큰 정사각형.py" />
+        <option value="$PROJECT_DIR$/Algorithm Study/b_14501_퇴사.py" />
+        <option value="$PROJECT_DIR$/Algorithm Study/b_1939_중량제한.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="898" />
-    <option name="width" value="1030" />
-    <option name="height" value="1039" />
+    <option name="x" value="950" />
+    <option name="y" value="1" />
+    <option name="width" value="978" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -201,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.b_6549_히스토그램에서 가장 큰 정사각형">
+  <component name="RunManager" selected="Python.b_14501_퇴사">
     <configuration name="b_11053_가장 긴 증가하는 부분수열" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="solved_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -265,6 +262,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="b_14501_퇴사" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="solved_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm Study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm Study/b_14501_퇴사.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="b_1946_신입 사원2" type="PythonConfigurationType" factoryName="Python">
       <module name="solved_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -307,42 +325,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p_방금그곡2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="solved_problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/p_방금그곡2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.b_1946_신입 사원2" />
-      <item itemvalue="Python.p_방금그곡2" />
       <item itemvalue="Python.b_1256_사전" />
       <item itemvalue="Python.b_11053_가장 긴 증가하는 부분수열" />
       <item itemvalue="Python.b_14235_크리스마스 선물" />
       <item itemvalue="Python.b_6549_히스토그램에서 가장 큰 정사각형" />
+      <item itemvalue="Python.b_14501_퇴사" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.b_14501_퇴사" />
         <item itemvalue="Python.b_6549_히스토그램에서 가장 큰 정사각형" />
         <item itemvalue="Python.b_14235_크리스마스 선물" />
         <item itemvalue="Python.b_1256_사전" />
         <item itemvalue="Python.b_11053_가장 긴 증가하는 부분수열" />
-        <item itemvalue="Python.p_방금그곡2" />
       </list>
     </recent_temporary>
   </component>
@@ -651,7 +648,28 @@
       <option name="project" value="LOCAL" />
       <updated>1604885747362</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="1110">
+      <created>1604981117252</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1604981117252</updated>
+    </task>
+    <task id="LOCAL-00044" summary="1110">
+      <created>1604981127720</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1604981127720</updated>
+    </task>
+    <task id="LOCAL-00045" summary="1110">
+      <created>1604981138248</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1604981138248</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TodoView">
@@ -664,15 +682,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="719" y="0" width="824" height="831" extended-state="0" />
-    <editor active="true" />
+    <frame x="761" y="2" width="781" height="829" extended-state="0" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.50211865" side_tool="true" weight="0.24580336" />
       <window_info id="Favorites" order="1" sideWeight="0.50211865" side_tool="true" weight="0.24917382" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49788135" weight="0.32646048" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49788135" weight="0.32484075" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3275862" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49966952" visible="true" weight="0.46341464" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966952" weight="0.3971223" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -728,23 +745,10 @@
     <MESSAGE value="1107" />
     <MESSAGE value="1108" />
     <MESSAGE value="1109" />
-    <option name="LAST_COMMIT_MESSAGE" value="1109" />
+    <MESSAGE value="1110" />
+    <option name="LAST_COMMIT_MESSAGE" value="1110" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/b_14502_연구소.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/b_7569_토마토.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="47" column="26" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/b_10026_적록색약.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -1050,42 +1054,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm Study/b_1256_사전.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm Study/b_2014_소수의 곱.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="3" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm Study/b_14235_크리스마스 선물.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="19" lean-forward="true" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm Study/b_6549_히스토그램에서 가장 큰 정사각형.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="23" />
+        <state relative-caret-position="56">
+          <caret line="2" column="22" selection-end-line="23" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm Study/b_1256_사전.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm Study/b_14235_크리스마스 선물.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm Study/b_14501_퇴사.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm Study/b_1939_중량제한.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
