@@ -1,20 +1,17 @@
-from itertools import permutations
+import sys
+from itertools import permutations as permu
 
 
-def my_sum(numbers_tuple):  # 문제의 규칙에 맞게 더하기
-    total = 0
-    for i in range(N - 1):
-        total += abs(numbers_tuple[i] - numbers_tuple[i + 1])
+input = sys.stdin.readline
+n = int(input())
+arr = list(map(int, input().rstrip().split(' ')))
+max_v = 0
+for p in permu(arr, n):
+    sum = 0
+    n_list = list(p)
+    for i in range(1, len(n_list)):
+        tmp = abs(n_list[i - 1] - n_list[i])
+        sum += tmp
+    max_v = max(max_v, sum)
 
-    return total
-
-
-
-N = int(input())
-numbers = list(map(int, input().split()))
-answer = 0
-for permu in permutations(numbers, N):  # N 이 적으므로 숫자를 배치할 수 있는 모든 경우의 수를 계산
-    result = my_sum(permu)
-    answer = max(answer, result)
-
-print(answer)
+print(max_v)
