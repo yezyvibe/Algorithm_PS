@@ -1,8 +1,9 @@
 import sys
 import heapq
 
+
 def dijkstra(n, s, e):
-    dist = [INF]*(n+1)
+    dist = [INF] * (n + 1)
     dist[s] = 0
     heap = []
     heapq.heappush(heap, [0, s])
@@ -16,10 +17,11 @@ def dijkstra(n, s, e):
                 heapq.heappush(heap, [c, n])
     return dist[e]
 
+
 input = sys.stdin.readline
 n = int(input())
 m = int(input())
-adj = [[] for _ in range(n+1)]
+adj = [[] for _ in range(n + 1)]
 INF = float('inf')
 for _ in range(m):
     a, b, c = map(int, input().rstrip().split(' '))

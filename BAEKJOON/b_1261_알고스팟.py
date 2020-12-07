@@ -8,7 +8,7 @@ def dijkstra():
     visit[0][0] = 1
 
     while heap:
-        cnt, x, y = heapq.heappop(heap)
+        cnt, x, y = heapq.heappop(heap)  # 벽 부순 횟수가 최소인 경우가 나옴
         for k in range(4):
             nx, ny = x + dx[k], y + dy[k]
             if x == n - 1 and y == m - 1:  # 종료조건
@@ -17,9 +17,9 @@ def dijkstra():
             if 0 <= nx < n and 0 <= ny < m and not visit[nx][ny]:
                 visit[nx][ny] = 1
 
-                if maze[nx][ny]:
+                if maze[nx][ny]:  # 벽인 경우
                     heapq.heappush(heap, [cnt + 1, nx, ny])
-                else:
+                else:  # 빈방인 경우
                     heapq.heappush(heap, [cnt, nx, ny])
 
 
