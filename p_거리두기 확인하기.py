@@ -10,7 +10,6 @@ def bfs(place, i, j):
 
     while q:
         x, y, dist = q.popleft()
-        print(x, y, dist, 'pooooooooop')
         if 0 < dist < 3 and place[x][y] == 'P':
             return False
         if dist > 2:
@@ -19,9 +18,9 @@ def bfs(place, i, j):
             nx, ny, nd = x + dx[k], y + dy[k], dist + 1
             if 0 <= nx < 5 and 0 <= ny <5:
                 if place[nx][ny] != 'X' and not visit[nx][ny]:  # 파티션이 있는 경우만 아니면 이동가능
-                    q.append((nx, ny, dist))
+                    q.append((nx, ny, nd))
                     visit[nx][ny] = 1
-    # return True
+    return True
 
 def solution(places):
     answer = []
@@ -31,7 +30,6 @@ def solution(places):
         for i in range(len(place)):
             for j in range(len(place[0])):
                 if place[i][j] == "P":
-                    print(i, j)
                     if not bfs(place, i, j):
                         answer.append(0)
                         chk = 1
