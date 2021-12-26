@@ -21,4 +21,4 @@ def solution(name):
     
     return answer
 
-print(solution("JEROEN"))
+print(solution("AAAAJEROEN"))
