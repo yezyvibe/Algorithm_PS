@@ -17,6 +17,7 @@ def solution(n, k):
             answer.append(numbers.pop(step-1))
         else:
             answer.append(numbers.pop(step))
+        # 한자리 채웠으니 n을 1 줄이기
         n -= 1
     return answer
 

@@ -1,6 +1,4 @@
-def solution(lines):
-    
-    
+def solution(lines):  
     # 시작, 완료 시간 순서로 로그 데이터 저장
     start_complete_data = []
     for line in lines:
