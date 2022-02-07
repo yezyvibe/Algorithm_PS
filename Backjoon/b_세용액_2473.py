@@ -17,7 +17,6 @@ def solution(N):
             if abs(sum) < abs(min_v):
                 min_v = sum
                 answer[0], answer[1], answer[2] = liquid[i], liquid[left], liquid[right]
-
             if sum > 0:
                 right -= 1
             elif sum < 0:
