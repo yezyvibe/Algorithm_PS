@@ -1,7 +1,7 @@
 import sys
 import heapq
 
-def dijkstra(s):
+def prim(s):
     hq = [(0, s)]
     answer = 0
 
@@ -32,4 +32,4 @@ for _ in range(e):
     adj[a].append((c, b))
     adj[b].append((c, a))
 
-print(dijkstra(1))
+print(prim(1))
