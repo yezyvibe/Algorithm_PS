@@ -58,7 +58,7 @@ for i in range(1, n+1):
 hq = []
 for i in range(1, n+1):
     if degree[i] == 0:
-        hq.append((before_works[i][0], i))
+        heapq.heappush(hq, (before_works[i][0], i))
 
 while hq:
     end_time, cur_work = heapq.heappop(hq)
